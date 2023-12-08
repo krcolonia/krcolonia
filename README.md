@@ -1,4 +1,4 @@
-### Hi there 👋
+![Profile Cover Photo](https://i.imgur.com/2X1VqNH.png)
 
 <!--
 **krcolonia/krcolonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
