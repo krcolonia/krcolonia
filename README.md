@@ -1,4 +1,4 @@
-![<img src="https://i.imgur.com/2X1VqNH.png">](https://krcolonia.github.io/)
+![Profile Cover Photo](https://i.imgur.com/2X1VqNH.png)
 
 
 <!--
