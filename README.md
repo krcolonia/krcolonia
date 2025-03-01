@@ -5,6 +5,9 @@
 <p align="center"><a href="https://github-readme-streak-stats.herokuapp.com/?user=krcolonia&theme=dark&hide_border=false"></a></p>
 <p align="center"><a href="https://github.com/krcolonia"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krcolonia&theme=dark&layout=compact&hide_border=true"></a></p>
 
+
+![](https://github-profile-trophy.vercel.app/?username=krcolonia&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 <!--
 **krcolonia/krcolonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
