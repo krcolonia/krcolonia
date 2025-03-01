@@ -1,5 +1,3 @@
-<h1 align="center">Kurt Robin Colonia</h1>
-
 <img src="https://i.imgur.com/2X1VqNH.png" alt="Profile Cover Photo">
 <p align="center">Visit my profile site <a href="https://krcolonia.github.io/" target="_blank">here</a>!</p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=krcolonia"></p>
