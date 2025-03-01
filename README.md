@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 </div>
 <div style="display:flex; flex-flow:row;" align="center">
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel_11-%23D00000.svg?style=for-the-badge&logo=Laravel&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
