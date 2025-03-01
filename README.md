@@ -5,13 +5,15 @@
 
 <h2 align="center">GitHub Profile Stats</h2>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=krcolonia&theme=radical&no-frame=true&no-bg=false&margin-w=4"></p>
+
+<div style="display:flex; flex-flow:row;" align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=krcolonia&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true"  height="250px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NorielAchero&theme=dark&hide_border=true"  height="250px">
+</div>
+
 <div style="display:flex; flex-flow:row;" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krcolonia&theme=dark&include_all_commits=true&count_private=true&hide_border=true" height="150px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krcolonia&theme=dark&include_all_commits=true&count_private=false&layout=compact&hide_border=true" height="150px">
-</div>
-<div style="display:flex; flex-flow:row;" align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=krcolonia&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true"  height="150px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NorielAchero&theme=dark&hide_border=true"  height="150px">
 </div>
 
 <h2 align="center">Languages, Tools, and Frameworks I Know and Use</h2>
