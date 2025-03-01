@@ -16,7 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krcolonia&theme=dark&include_all_commits=true&count_private=false&layout=compact&hide_border=true" height="150px">
 </div>
 
-<h2 align="center">Languages, Tools, and Frameworks I've Known and Used</h2>
+<h2 align="center">Languages, Tools, and Frameworks I'm Familiar With</h2>
 <div style="display:flex; flex-flow:row;" align="center"> <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/c%23-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -48,7 +48,7 @@
 </div>
 
 <div style="display:flex; flex-flow:row;" align="center"> <!-- Version Control -->
-  <img src="https://img.shields.io/badge/git_for_windows-80B3FF.svg?style=for-the-badge&logo=gitforwindows&logoColor=black">
+  <img src="https://img.shields.io/badge/gnubash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
 </div>
