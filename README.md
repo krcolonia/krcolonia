@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/gdscript-478CBF.svg?style=for-the-badge&logo=godotengine&logoColor=white">
 </div>
 
-<br><br>
+<br>
 
 <p align="center">Web Development Languages</p>
 <div style="display:flex; flex-flow:row;" align="center"> <!-- Raw Web Development -->
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 </div>
 
-<br><br>
+<br>
 
 <p align="center">Database</p>
 <div style="display:flex; flex-flow:row;" align="center"> <!-- Database-related stuff -->
@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/firebase-DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
 
-<br><br>
+<br>
 
 <p align="center">Frameworks</p>
 <div style="display:flex; flex-flow:row;" align="center"> <!-- Frameworks -->
