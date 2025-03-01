@@ -48,7 +48,7 @@
 </div>
 
 <div style="display:flex; flex-flow:row;" align="center"> <!-- Version Control -->
-  <img src="https://img.shields.io/badge/gnubash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white">
+  <img src="https://img.shields.io/badge/bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
 </div>
