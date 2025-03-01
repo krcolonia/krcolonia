@@ -1,4 +1,4 @@
-![Profile Cover Photo](https://i.imgur.com/2X1VqNH.png)
+<img src="https://i.imgur.com/2X1VqNH.png" alt="Profile Cover Photo">
 <p align="center">Visit my profile site <a href="https://krcolonia.github.io/" target="_blank">here</a>!</p>
 
 <h1 align="center">Welcome to my GitHub Profile!</h1>
