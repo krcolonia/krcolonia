@@ -2,7 +2,7 @@
 <p align="center">Visit my profile site <a href="https://krcolonia.github.io/" target="_blank">here</a>!</p>
 
 <h1 align="center">Welcome to my GitHub Profile!</h1>
-
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=NorielAchero&theme=dark&hide_border=false"></p>
 <p align="center"><a href="https://github.com/krcolonia"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krcolonia&theme=dark&layout=compact&hide_border=true"></a></p>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=NorielAchero&theme=radical&no-frame=true&no-bg=false&margin-w=4"></p>
