@@ -10,7 +10,7 @@
 
 <h2 align="center">Languages & Frameworks I Know and Use</h2>
 <div style="display:flex; flex-flow:row;" align="center">
-  <img src="https://img.shields.io/badge/c#-%231572B6.svg?style=for-the-badge&logo=c#&logoColor=white">
+  <img src="https://img.shields.io/badge/c%23-%231572B6.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/kotlin-%238511FA.svg?style=for-the-badge&logo=kotlin&logoColor=white">
