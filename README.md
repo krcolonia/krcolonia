@@ -2,6 +2,7 @@
 
 <img src="https://i.imgur.com/2X1VqNH.png" alt="Profile Cover Photo">
 <p align="center">Visit my profile site <a href="https://krcolonia.github.io/" target="_blank">here</a>!</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=krcolonia"></p>
 
 <h2 align="center">GitHub Profile Stats</h2>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=krcolonia&theme=radical&no-frame=true&no-bg=false&margin-w=4"></p>
