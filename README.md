@@ -9,7 +9,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NorielAchero&theme=dark&hide_border=true"></p>
 
 <h1>Languages I Know</h1>
-<div style="display:flex; flex-flow:row;">
+<div style="display:flex; flex-flow:row; justify-content: center;">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
