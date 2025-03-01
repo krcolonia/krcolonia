@@ -6,9 +6,7 @@
 <p align="center"><a href="https://github.com/krcolonia"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krcolonia&theme=dark&layout=compact&hide_border=true"></a></p>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=NorielAchero&theme=radical&no-frame=true&no-bg=false&margin-w=4"></p>
-
-
-<p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=krcolonia&limit=5&theme=dark&combine_all_yearly_contributions=true"></p>
+<p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=krcolonia&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true"></p>
 <!--
 **krcolonia/krcolonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
