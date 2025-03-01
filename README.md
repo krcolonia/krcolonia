@@ -8,7 +8,7 @@
 
 <div style="display:flex; flex-flow:row;" align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=krcolonia&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true"  height="200px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NorielAchero&theme=dark&hide_border=true"  height="200px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krcolonia&theme=dark&hide_border=true"  height="200px">
 </div>
 
 <div style="display:flex; flex-flow:row;" align="center">
