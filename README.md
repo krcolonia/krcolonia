@@ -9,8 +9,8 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NorielAchero&theme=dark&hide_border=true"></p>
 
 <div style="display:flex; flex-flow:row;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krcolonia&theme=dark&include_all_commits=true&count_private=true&hide_border=false">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krcolonia&theme=dark&include_all_commits=true&count_private=false&layout=compact&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=krcolonia&theme=dark&include_all_commits=true&count_private=true&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krcolonia&theme=dark&include_all_commits=true&count_private=false&layout=compact&hide_border=true" style="height: 100%;">
 </div>
 
 <h2 align="center">Languages, Tools, and Frameworks I Know and Use</h2>
