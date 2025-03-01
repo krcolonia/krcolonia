@@ -1,14 +1,14 @@
-<h1>Welcome to my GitHub Profile!</h1>
+<h1 align="center">Welcome to my GitHub Profile!</h1>
 
 <img src="https://i.imgur.com/2X1VqNH.png" alt="Profile Cover Photo">
 <p align="center">Visit my profile site <a href="https://krcolonia.github.io/" target="_blank">here</a>!</p>
 
-<h2>GitHub Profile Stats</h2>
+<h2 align="center">GitHub Profile Stats</h2>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=krcolonia&theme=radical&no-frame=true&no-bg=false&margin-w=4"></p>
 <p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=krcolonia&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true"></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NorielAchero&theme=dark&hide_border=true"></p>
 
-<h2>Languages & Frameworks I Know</h2>
+<h2 align="center">Languages & Frameworks I Know</h2>
 <div style="display:flex; flex-flow:row;" align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
