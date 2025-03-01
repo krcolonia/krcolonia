@@ -8,7 +8,7 @@
 <p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=krcolonia&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true"></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NorielAchero&theme=dark&hide_border=true"></p>
 
-<h2 align="center">Languages & Frameworks I Know</h2>
+<h2 align="center">Languages & Frameworks I Know and Use</h2>
 <div style="display:flex; flex-flow:row;" align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
