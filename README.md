@@ -4,10 +4,11 @@
 <p align="center">Visit my profile site <a href="https://krcolonia.github.io/" target="_blank">here</a>!</p>
 
 <h2 align="center">GitHub Profile Stats</h2>
-<div style="display:flex; flex-flow:column;" align="center">
-  <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=krcolonia&theme=radical&no-frame=true&no-bg=false&margin-w=4"></p>
-  <p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=krcolonia&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true"></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=krcolonia&theme=radical&no-frame=true&no-bg=false&margin-w=4"></p>
+<p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=krcolonia&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true"></p>
+<div style="display:flex; flex-flow:row;" align="center">
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NorielAchero&theme=dark&hide_border=true"></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krcolonia&theme=dark&layout=compact&hide_border=true"></p>
 </div>
 
 <h2 align="center">Languages, Tools, and Frameworks I Know and Use</h2>
@@ -34,9 +35,6 @@
   <img src="https://img.shields.io/badge/Laravel_11-%23D00000.svg?style=for-the-badge&logo=Laravel&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
-
-<br>
-<p align="center"><a href="https://github.com/krcolonia"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krcolonia&theme=dark&layout=compact&hide_border=true"></a></p>
 
 <h3 align="center"></h3>
 
