@@ -1,8 +1,6 @@
 <img src="https://i.imgur.com/2X1VqNH.png" alt="Profile Cover Photo">
 <p align="center">Visit my profile site <a href="https://krcolonia.github.io/" target="_blank">here</a>!</p>
 
-<h1 align="center">Welcome to my GitHub Profile!</h1>
-
 <h1>GitHub Profile Stats</h1>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=krcolonia&theme=radical&no-frame=true&no-bg=false&margin-w=4"></p>
 <p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=krcolonia&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true"></p>
