@@ -47,6 +47,11 @@
   <img src="https://img.shields.io/badge/firebase-DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
 
+<div style="display:flex; flex-flow:row;"> <!-- Version Control -->
+  <img src="https://img.shields.io/badge/gitforwindows-80B3FF.svg?style=for-the-badge&logo=gitforwindows&logoColor=black">
+  <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white">
+</div>
+
 <!--
 **krcolonia/krcolonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
