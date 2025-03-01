@@ -8,16 +8,20 @@
 <p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=krcolonia&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true"></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NorielAchero&theme=dark&hide_border=true"></p>
 
-<h1>Languages I Know</h1>
+<h1>Languages & Frameworks I Know</h1>
 <div style="display:flex; flex-flow:row;" align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+</div>
+<div style="display:flex; flex-flow:row;" align="center">
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Laravel&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
+<br>
 <p align="center"><a href="https://github.com/krcolonia"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krcolonia&theme=dark&layout=compact&hide_border=true"></a></p>
 
 <!--
