@@ -2,7 +2,7 @@
 <p align="center">Visit my profile site <a href="https://krcolonia.github.io/" target="_blank">here</a>!</p>
 
 <h1 align="center">Welcome to my GitHub Profile!</h1>
-<p align="center" style="width:100%;"><a href="https://github.com/hijemu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krcolonia&theme=dark&layout=compact"></a></p>
+<p align="center"><a href="https://github.com/hijemu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krcolonia&theme=dark&layout=compact"></a></p>
 
 <!--
 **krcolonia/krcolonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
