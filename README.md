@@ -16,7 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krcolonia&theme=dark&include_all_commits=true&count_private=false&layout=compact&hide_border=true" height="150px">
 </div>
 
-<h2 align="center">Languages, Tools, and Frameworks I Know and Use</h2>
+<h2 align="center">Languages, Tools, and Frameworks I've Known and Used</h2>
 <div style="display:flex; flex-flow:row;" align="center"> <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/c%23-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -36,9 +36,10 @@
   <img src="https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
-<div style="display:flex; flex-flow:row;" align="center"> <!-- Web Development Frameworks -->
-  <img src="https://img.shields.io/badge/Laravel_11-%23D00000.svg?style=for-the-badge&logo=Laravel&logoColor=white">
+<div style="display:flex; flex-flow:row;" align="center"> <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/laravel_11-%23D00000.svg?style=for-the-badge&logo=Laravel&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white">
 </div>
 
 <h3 align="center"></h3>
