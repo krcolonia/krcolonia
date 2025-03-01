@@ -17,6 +17,7 @@
 </div>
 
 <h2 align="center">Languages, Tools, and Frameworks I've Known and Used</h2>
+<p>Programming Languages</p>
 <div style="display:flex; flex-flow:row;" align="center"> <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/c%23-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -24,6 +25,10 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/gdscript-478CBF.svg?style=for-the-badge&logo=godotengine&logoColor=white">
 </div>
+
+<br><br>
+
+<p>Web Development Languages</p>
 <div style="display:flex; flex-flow:row;" align="center"> <!-- Raw Web Development -->
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -31,11 +36,19 @@
   <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 </div>
+
+<br><br>
+
+<p>Database</p>
 <div style="display:flex; flex-flow:row;" align="center"> <!-- Database-related stuff -->
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
+
+<br><br>
+
+<p>Frameworks</p>
 <div style="display:flex; flex-flow:row;" align="center"> <!-- Frameworks -->
   <img src="https://img.shields.io/badge/laravel_11-%23D00000.svg?style=for-the-badge&logo=Laravel&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
