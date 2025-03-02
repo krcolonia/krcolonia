@@ -2,19 +2,6 @@
 <p align="center">Visit my profile site <a href="https://krcolonia.github.io/" target="_blank">here</a>!</p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=krcolonia"></p>
 
-<h2 align="center">GitHub Profile Stats</h2>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=krcolonia&theme=radical&no-frame=true&no-bg=false&margin-w=8"></p>
-
-<div style="display:flex; flex-flow:row;" align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=krcolonia&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true"  height="170px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krcolonia&theme=dark&hide_border=true"  height="170px">
-</div>
-
-<div style="display:flex; flex-flow:row;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krcolonia&theme=dark&include_all_commits=true&count_private=true&hide_border=true" height="150px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krcolonia&theme=dark&include_all_commits=true&count_private=false&layout=compact&hide_border=true" height="150px">
-</div>
-
 <h2 align="center">Languages, Tools, and Frameworks I'm Familiar With</h2>
 <div style="display:flex; flex-flow:row;" align="center"> <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/c%23-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white">
@@ -50,6 +37,19 @@
   <img src="https://img.shields.io/badge/bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+</div>
+
+<h2 align="center">GitHub Profile Stats</h2>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=krcolonia&theme=radical&no-frame=true&no-bg=false&margin-w=8"></p>
+
+<div style="display:flex; flex-flow:row;" align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=krcolonia&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true"  height="170px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krcolonia&theme=dark&hide_border=true"  height="170px">
+</div>
+
+<div style="display:flex; flex-flow:row;" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krcolonia&theme=dark&include_all_commits=true&count_private=true&hide_border=true" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krcolonia&theme=dark&include_all_commits=true&count_private=false&layout=compact&hide_border=true" height="150px">
 </div>
 
 <!--
