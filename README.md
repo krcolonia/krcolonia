@@ -3,7 +3,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=krcolonia"></p>
 
 <h2 align="center">GitHub Profile Stats</h2>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=krcolonia&theme=dark&no-frame=true&no-bg=false&margin-w=8"></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=krcolonia&theme=vercel&no-frame=true&no-bg=false&margin-w=8"></p>
 
 <div style="display:flex; flex-flow:row;" align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=krcolonia&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true"  height="170px">
