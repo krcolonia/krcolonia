@@ -53,6 +53,7 @@
 </div>
 
 
+Commit Graphs eaten by a snek
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krcolonia/krcolonia/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krcolonia/krcolonia/output/github-snake.svg" />
