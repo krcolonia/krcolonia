@@ -52,6 +52,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krcolonia&theme=dark&include_all_commits=true&count_private=true&layout=compact&hide_border=true" height="150px">
 </div>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krcolonia/krcolonia/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krcolonia/krcolonia/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SenpaiLuwi/SenpaiLuwi//output/github-snake.svg" />
+</picture>
+
 <!--
 **krcolonia/krcolonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
