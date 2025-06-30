@@ -52,7 +52,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krcolonia&theme=dark&include_all_commits=true&count_private=true&layout=compact&hide_border=true" height="150px">
 </div>
 
-My Commits being eaten by a snek
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krcolonia/krcolonia/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krcolonia/krcolonia/output/github-snake.svg" />
