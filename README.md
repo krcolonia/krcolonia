@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/2X1VqNH.png" alt="Profile Cover Photo">
-<p align="center">Visit my profile site <a href="https://krcolonia.github.io/" target="_blank">here</a>!</p>
+<p align="center">Visit my profile site <a href="https://krcolonia.github.io/" target="_blank">here</a>!</p> *(currently going under a redesign!)*
 <p align="center"><img src="https://komarev.com/ghpvc/?username=krcolonia"></p>
 
 <h2 align="center">My Tech Stack</h2>
