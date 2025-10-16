@@ -43,6 +43,11 @@
   <img src="https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
 </div>
 
+<div style="display:flex; flex-flow:row;" align="center"> <!-- Operating Systems -->
+  <img src="https://img.shields.io/badge/linux-debian-A81D33.svg?style=for-the-badge&logo=debian&logoColor=white">
+  <img src="https://img.shields.io/badge/linux-kali-557C94svg?style=for-the-badge&logo=kalilinux&logoColor=white">
+</div>
+
 <h2 align="center">GitHub Profile Stats</h2>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=krcolonia&theme=radical&no-frame=true&no-bg=false&margin-w=8"></p>
 
