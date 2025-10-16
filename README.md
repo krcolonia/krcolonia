@@ -24,8 +24,8 @@
 <div style="display:flex; flex-flow:row;" align="center"> <!-- Frameworks -->
   <img src="https://img.shields.io/badge/laravel-%23D00000.svg?style=for-the-badge&logo=Laravel&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/react.js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/vite-02569B.svg?style=for-the-badge&logo=vite&logoColor=white">
 </div>
 
 <div style="display:flex; flex-flow:row;" align="center"> <!-- Database-related stuff -->
