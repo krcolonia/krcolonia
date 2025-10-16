@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/dbeaver-45352F.svg?style=for-the-badge&logo=dbeaver&logoColor=white">
 </div>
 
 <div style="display:flex; flex-flow:row;" align="center"> <!-- Version Control -->
