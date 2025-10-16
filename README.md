@@ -3,7 +3,7 @@
 <p align="center">Visit my profile site <a href="https://krcolonia.github.io/" target="_blank">here</a>!</p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=krcolonia"></p>
 
-<h2 align="center">My Tech Stack</h2>
+<h2 align="center">My Tech Stack and Tools I Use</h2>
 <div style="display:flex; flex-flow:row;" align="center"> <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/c%23-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
