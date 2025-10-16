@@ -52,13 +52,13 @@
 <h2 align="center">GitHub Profile Stats</h2>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=krcolonia&theme=radical&no-frame=true&no-bg=false&margin-w=8"></p>
 
-<div style="display:flex; flex-flow:row;" align="center">
+<!-- <div style="display:flex; flex-flow:row;" align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=krcolonia&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true"  height="170px">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krcolonia&theme=dark&hide_border=true"  height="170px">
-</div>
+</div> -->
 
 <div style="display:flex; flex-flow:row;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krcolonia&theme=dark&include_all_commits=true&count_private=true&hide_border=true" height="150px">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=krcolonia&theme=dark&include_all_commits=true&count_private=true&hide_border=true" height="150px"> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krcolonia&theme=dark&include_all_commits=true&count_private=true&layout=compact&hide_border=true" height="150px">
 </div>
 
