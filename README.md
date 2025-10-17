@@ -48,7 +48,7 @@
   <thead>
     <th>Database Management</th>
     <th>Version Control</th>
-    <th>Terminals and CLIs</th>
+    <th>Terminals and Virtual Machines</th>
     <th>Operating Systems</th>
   </thead>
   <tr>
@@ -63,7 +63,7 @@
       <img src="https://img.shields.io/badge/github-2b3137.svg?style=for-the-badge&logo=github&logoColor=white"><br>
       <img src="https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
     </td>
-    <td align="center"> <!-- Command Lines and Terminals -->
+    <td align="center"> <!-- Terminals and Virtual Machines -->
       <img src="https://img.shields.io/badge/windows_terminal-000000.svg?style=for-the-badge&logo=gnometerminal&logoColor=white"><br>
       <img src="https://img.shields.io/badge/vmware-EDB200.svg?style=for-the-badge&logo=vmware&logoColor=white"><br>
       <img src="https://img.shields.io/badge/bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white"><br>
