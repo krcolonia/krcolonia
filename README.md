@@ -6,6 +6,9 @@
 <h2 align="center">My Tech Stack</h2>
 
 <table style="border:none" align="center">
+  <thead>
+    <th>Software Development</th>
+  </thead>
   <tr>
     <td align="center"> <!-- Software Development -->
       <img src="https://img.shields.io/badge/c%23-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"><br>
