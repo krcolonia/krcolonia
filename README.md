@@ -51,6 +51,11 @@
       <img src="https://img.shields.io/badge/kali-557C94svg?style=for-the-badge&logo=kalilinux&logoColor=white">
     </td>
   </tr>
+  <tr>
+    <td colspan="7" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krcolonia&theme=dark&include_all_commits=true&count_private=true&layout=compact&hide_border=true" height="150px">
+    </td>
+  </tr>
 </table>
 
 <h2 align="center">GitHub Profile Stats</h2>
@@ -61,10 +66,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krcolonia&theme=dark&hide_border=true"  height="170px">
 </div> -->
 
-<div style="display:flex; flex-flow:row;" align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=krcolonia&theme=dark&include_all_commits=true&count_private=true&hide_border=true" height="150px"> -->
+<!-- <div style="display:flex; flex-flow:row;" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krcolonia&theme=dark&include_all_commits=true&count_private=true&hide_border=true" height="150px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krcolonia&theme=dark&include_all_commits=true&count_private=true&layout=compact&hide_border=true" height="150px">
-</div>
+</div> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krcolonia/krcolonia/output/github-snake-dark.svg" />
