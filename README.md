@@ -5,7 +5,7 @@
 
 <h2 align="center">My Tech Stack and Tools I Use</h2>
 
-<table>
+<table style="border:none" align="center">
   <tr>
     <td>
       <div style="display:flex; flex-flow:column" align="center"> <!-- Programming Languages -->
