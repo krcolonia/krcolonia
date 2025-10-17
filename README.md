@@ -23,7 +23,6 @@
 </div>
 
 <div style="display:flex; flex-flow:row;" align="center"> <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/laravel-%23D00000.svg?style=for-the-badge&logo=Laravel&logoColor=white">
   <img src="https://img.shields.io/badge/tailwind css-61DAFB.svg?style=for-the-badge&logo=tailwindcss&logoColor=black">
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -36,6 +35,7 @@
   <img src="https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/dbeaver-45352F.svg?style=for-the-badge&logo=dbeaver&logoColor=white">
+  <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
 </div>
 
 <div style="display:flex; flex-flow:row;" align="center"> <!-- Version Control -->
