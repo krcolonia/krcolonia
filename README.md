@@ -11,7 +11,7 @@
       <img src="https://img.shields.io/badge/c%23-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"><br>
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"><br>
       <img src="https://img.shields.io/badge/kotlin-%238511FA.svg?style=for-the-badge&logo=kotlin&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"><br>
+      <!-- <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"><br> -->
       <img src="https://img.shields.io/badge/gdscript-478CBF.svg?style=for-the-badge&logo=godotengine&logoColor=white">
     </td>
     <td align="center"> <!-- Web Development -->
