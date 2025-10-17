@@ -5,7 +5,7 @@
 
 <h2 align="center">My Tech Stack</h2>
 
-<table align="center">
+<table style="width:100%;" align="center">
   <thead>
     <th>Software Development</th>
     <th>Web Development</th>
