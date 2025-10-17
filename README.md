@@ -5,7 +5,7 @@
 
 <h2 align="center">My Tech Stack and Tools I Use</h2>
 
-<div style="display:flex; flex-flow:row; height:700px;" align="center">
+<div style="display:flex; flex-flow:row;">
 
 <div style="display:flex; flex-flow:column;" align="center"> <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/c%23-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white">
