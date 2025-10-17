@@ -35,6 +35,8 @@
       <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"><br>
       <img src="https://img.shields.io/badge/mailpit-2c3e50.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iNTAwIiBoZWlnaHQ9IjQ2MCIgdmlld0JveD0iMCAwIDEzMi4yOTIgMTIxLjcwOCIgdmVyc2lvbj0iMS4xIiBpZD0ic3ZnNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcyBpZD0iZGVmczEwIi8+CiAgPHBhdGggZD0iTTEyLjMyMSAwbDUzLjg2MSA1My45MThMMTIwLjM2NSAwek01LjE1NSA5LjAyNWw2MC44NDIgNTkuNjczIDYxLjIxMS01OS40ODktLjE4NSAzNi44MzVMNjYuOTIxIDcwLjU0bDE1LjE2NCAxMi42MTYtOC4xMzcgNS45ODYtNDEuNjA5LjE4NGMtNC44MzgtLjAyMi0yNS44NzctMTguMzQtMjcuMTg1LTQxLjI1NXoiIGZpbGwtb3BhY2l0eT0iLjk0MSIgZmlsbD0iIzJkNGE1ZiIgaWQ9InBhdGgyIiBzdHlsZT0iZmlsbDojZmZmZmZmO2ZpbGwtb3BhY2l0eToxIi8+CiAgPHBhdGggZD0iTTc4LjM4NSA3Mi4wNDlsNTMuOTA3LTIxLjY3OS04LjAzMSA1Ny4zMTgtMTEuODQ1LTkuMTMyYy0yMS43MjcgMjMuMTcxLTQ1LjI1NSAyNi4yODktNjcuOTk3IDIwLjgzN1MxMi4yODEgOTguMzkgNS4xNTUgODMuOC0uNjcgNTMuMTE2IDIuODQzIDM4Ljc2OWMxLjEzIDEwLjUxMS0xLjMxMyAxNi4zMTYgNi4zOCAzMy42MTIgNi4zMSAxMS4zOTkgMTQuNDEzIDIwLjQxNyAyNS44OSAyNC45NTYgMTMuOSA2LjE5NSAzMi4yNDcgMy4zNTcgNDEuNzAxLTMuMDM5bDE0LjI0LTEyLjE1NnoiIGZpbGw9IiMwMGI3ODYiIGlkPSJwYXRoNCIvPgo8L3N2Zz4=&logoColor=white">
     </td>
+  </tr>
+  <tr>
     <td align="center"> <!-- Database Management -->
       <img src="https://img.shields.io/badge/xampp-FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white"><br>
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"><br>
