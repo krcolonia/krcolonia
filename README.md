@@ -51,12 +51,12 @@
       <img src="https://img.shields.io/badge/kali-557C94svg?style=for-the-badge&logo=kalilinux&logoColor=white">
     </td>
   </tr>
-  <tr>
-    <td colspan="7" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krcolonia&theme=dark&include_all_commits=true&count_private=true&layout=compact&hide_border=true" height="150px">
-    </td>
-  </tr>
 </table>
+
+<div style="display:flex; flex-flow:row;" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krcolonia&theme=dark&include_all_commits=true&count_private=true&layout=compact&hide_border=true" height="150px">
+</div>
+
 
 <h2 align="center">GitHub Profile Stats</h2>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=krcolonia&theme=radical&no-frame=true&no-bg=false&margin-w=8"></p>
