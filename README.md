@@ -3,7 +3,7 @@
 <p align="center">Visit my profile site <a href="https://krcolonia.github.io/" target="_blank">here</a>!</p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=krcolonia"></p>
 
-<h2 align="center">My Tech Stack and Tools I Use</h2>
+<h2 align="center">My Tech Stack</h2>
 
 <table style="border:none" align="center">
   <tr>
