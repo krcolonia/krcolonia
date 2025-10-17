@@ -20,6 +20,7 @@
       <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"><br>
       <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"><br>
       <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
     </td>
     <td align="center"> <!-- Frameworks -->
       <img src="https://img.shields.io/badge/laravel-%23D00000.svg?style=for-the-badge&logo=Laravel&logoColor=white"><br>
@@ -46,7 +47,6 @@
       <img src="https://img.shields.io/badge/bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white"><br>
       <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"><br>
       <img src="https://img.shields.io/badge/github-2b3137.svg?style=for-the-badge&logo=github&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
     </td>
     <td align="center"> <!-- Operating Systems -->
       <img src="https://img.shields.io/badge/windows-357EC7.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZmlsbD0iI2ZmZmZmZiI+PGcgaWQ9IlNWR1JlcG9fYmdDYXJyaWVyIiBzdHJva2Utd2lkdGg9IjAiPjwvZz48ZyBpZD0iU1ZHUmVwb190cmFjZXJDYXJyaWVyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjwvZz48ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI+IDx0aXRsZT5taWNyb3NvZnRfd2luZG93czwvdGl0bGU+IDxyZWN0IHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0ibm9uZSI+PC9yZWN0PiA8cGF0aCBkPSJNMywxMlY2Ljc1TDksNS40M3Y2LjQ4TDMsMTJNMjAsM3Y4Ljc1TDEwLDExLjlWNS4yMUwyMCwzTTMsMTNsNiwuMDlWMTkuOUwzLDE4Ljc1VjEzbTE3LC4yNVYyMkwxMCwyMC4wOXYtN1oiPjwvcGF0aD4gPC9nPjwvc3ZnPg==&logoColor=white"><br>
