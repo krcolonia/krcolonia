@@ -23,6 +23,7 @@
 </div>
 
 <div style="display:flex; flex-flow:row;" align="center"> <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/laravel-%23D00000.svg?style=for-the-badge&logo=Laravel&logoColor=white">
   <img src="https://img.shields.io/badge/tailwind css-61DAFB.svg?style=for-the-badge&logo=tailwindcss&logoColor=black">
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
