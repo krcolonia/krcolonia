@@ -61,6 +61,7 @@
     <td align="center"> <!-- Version Control -->
       <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"><br>
       <img src="https://img.shields.io/badge/github-2b3137.svg?style=for-the-badge&logo=github&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white"><br>
       <img src="https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
     </td>
     <td align="center"> <!-- Terminals and Virtual Machines -->
