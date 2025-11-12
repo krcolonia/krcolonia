@@ -1,5 +1,4 @@
 <img src="https://i.imgur.com/2X1VqNH.png" alt="Profile Cover Photo">
-<p align="center"><i><sub>My portfolio site is currently going under a <b>major</b> redesign! Visit with caution!</sub></i></p>
 <p align="center">Visit my profile site <a href="https://krcolonia.github.io/" target="_blank">here</a>!</p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=krcolonia"></p>
 
