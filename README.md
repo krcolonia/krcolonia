@@ -83,7 +83,7 @@
 
 
 <h2 align="center">GitHub Profile Stats</h2>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=krcolonia&theme=alduin&no-frame=true&no-bg=false&margin-w=8&title=-Stars,-Issues,-PullRequest,-Reviews" align="center"></p>
+<!-- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=krcolonia&theme=alduin&no-frame=true&no-bg=false&margin-w=8&title=-Stars,-Issues,-PullRequest,-Reviews" align="center"></p> -->
 
 <!-- <div style="display:flex; flex-flow:row;" align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=krcolonia&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true"  height="170px">
@@ -100,18 +100,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krcolonia/krcolonia/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/krcolonia/krcolonia//output/github-snake.svg" />
 </picture>
-
-<!--
-**krcolonia/krcolonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
