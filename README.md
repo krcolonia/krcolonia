@@ -77,9 +77,9 @@
   </tr>
 </table>
 
-<div style="display:flex; flex-flow:row;" align="center">
+<!--<div style="display:flex; flex-flow:row;" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krcolonia&theme=dark&include_all_commits=true&count_private=true&layout=compact&hide_border=true" height="150px">
-</div>
+</div> -->
 
 
 <h2 align="center">GitHub Profile Stats</h2>
