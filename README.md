@@ -79,12 +79,12 @@
 
 <h2 align="center">GitHub Profile Stats</h2>
 
-<div style="display:flex; flex-flow:row;" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krcolonia&theme=dark&hide_border=true"  height="170px">
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krcolonia/krcolonia/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krcolonia/krcolonia/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/krcolonia/krcolonia//output/github-snake.svg" />
 </picture>
+
+<div style="display:flex; flex-flow:row;" align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krcolonia&theme=dark&hide_border=true"  height="170px">
+</div>
