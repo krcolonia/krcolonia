@@ -21,7 +21,7 @@
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     </td>
 
-```
+
 <td align="center" width="25%">
   <strong>Web Development</strong><br><br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Mailpit-2C3E50?style=for-the-badge&logoColor=white">
 </td>
-```
+
 
   </tr>
 
@@ -62,7 +62,7 @@
       <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
     </td>
 
-```
+
 <td align="center">
   <strong>Terminal & Virtualization</strong><br><br>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
@@ -82,7 +82,7 @@
   <strong>Other</strong><br><br>
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white">
 </td>
-```
+
 
   </tr>
 </table>
